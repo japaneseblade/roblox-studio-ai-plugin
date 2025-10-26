@@ -23,7 +23,7 @@ DEFAULT_CONFIG = {
     "DEFAULT_MODEL": "mistralai/mistral-7b-instruct:free",
     
     # Provider API keys
-    "OPENROUTER_API_KEY": "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",
+    "OPENROUTER_API_KEY": "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",
     "HUGGINGFACE_API_KEY": "",  # Add your Hugging Face API key here
     "OLLAMA_BASE_URL": "http://localhost:11434",  # For self-hosted Ollama
     
@@ -33,7 +33,7 @@ DEFAULT_CONFIG = {
     
     # Security
     "REQUIRE_AUTH": True,
-    "ADMIN_USERNAMES": ["itsmelotex"],  # Default admin users
+    "ADMIN_USERNAMES": ["WoodenDash129"],  # Default admin users
 }
 
 # Provider configurations
